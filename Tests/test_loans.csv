@@ -1,0 +1,3 @@
+Loan #,Loan Type,Balance,Rate,Term,Asset,Asset Value
+1,Auto Loan,100000, 0.08 ,10,Car,120000
+2,Auto Loan,75000, 0.06 ,8,Car,95000
